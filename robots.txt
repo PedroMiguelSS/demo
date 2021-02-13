@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://aj-pinto.pt/sitemap.xml
+Host: https://aj-pinto.pt
